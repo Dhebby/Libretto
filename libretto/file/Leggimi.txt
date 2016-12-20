@@ -1,0 +1,5 @@
+Il programma non funziona correttamente su Internet Explorer e Firefox
+a causa dell'utilizzo dell'elemento <input type="date"> 
+che non è supportato nei due browser.
+
+Il programma è stato testato e funziona correttamente sull'ultima versione di Chrome.
